@@ -11,7 +11,7 @@ interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "Text2Diagram",
+  name: "Text2Diagram: Create schematic architecture diagrams, UML, flowcharts, Gnatt charts and many more with natural language",
   description: "Enter your text in natural language or provide your code for seamless diagram creation",
   mainNav: [
     // {
