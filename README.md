@@ -1,5 +1,5 @@
 # Text2Diagram
-Create diagrams with natural language text.
+Text2Diagram: Create schematic architecture diagrams, UML, flowcharts, Gnatt charts, mind maps, Sequence diagrams, User Journey and many more with natural language.
 ## Demo
 Click here  : https://text2diagram.vercel.app
 # Sample Usage
