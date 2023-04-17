@@ -8,7 +8,7 @@ import { cn } from "@/lib/utils";
 import { SiteHeader } from "@/components/SiteHeader";
 
 export const metadata = {
-  title: "Text2Diagram",
+  title: "Text2Diagram:Create diagrams with natural language",
   description:
     "Draw flowchart, sequence diagram, class diagram, user journey, gantt, C4C, Mindmap, Timeline diagram with nature language.",
 };
