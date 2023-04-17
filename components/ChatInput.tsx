@@ -22,7 +22,7 @@ export const ChatInput: React.FC<Props> = ({
   return (
     <div className="flex flex-col w-full flex-grow relative border border-black/10 rounded-md shadow-[0_0_10px_rgba(0,0,0,0.10)] p-4">
       <Textarea className="bg-white focus:outline-none focus:ring focus:ring-blue-500 focus:border-blue-500 rounded-md px-3 py-2 w-full text-gray-700 leading-tight"
-        placeholder="Describe the diagram in nature language."
+        placeholder="Describe the diagram in natural language or enter your code with a description of the diagram you want to create."
         value={messageCotent}
         onChange={(e) => onChange(e.target.value)}
         onKeyDown={handleKeyDown}
