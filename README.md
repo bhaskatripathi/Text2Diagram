@@ -3,7 +3,7 @@ Create diagrams with natural language text.
 ## Demo
 Click here  : https://text2diagram.vercel.app
 # Sample Usage
-You can try some natural language text such as :
+Here are some sample natural language texts that you can try for different types of diagrams:
  - Draw a Flowchart for hill climbing algorithm
  - Draw an ER diagram for a customer order system
 - Draw a user journey for an online shopping experience
