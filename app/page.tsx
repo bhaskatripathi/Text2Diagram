@@ -93,7 +93,7 @@ export default function Home() {
 
   return (
     <main className="container flex-1 w-full flex flex-wrap">
-      <div className="flex border md:border-r-0 flex-col justify-between w-full md:w-1/2">
+      <div className="flex border md:border-r-0 flex-col justify-between w-full md:w-1/4">
         <div className="">
           <div className="">
             {messages.map((message) => {
@@ -111,7 +111,7 @@ export default function Home() {
           />
         </div>
       </div>
-      <div className="border w-full md:w-1/2 p-2 flex flex-col">
+      <div className="border w-full md:w-3/4 p-2 flex flex-col">
         <CodeBlock code={draftOutputCode} />
 
         <div className="flex-1 flex justify-center border relative">
