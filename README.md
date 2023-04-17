@@ -15,3 +15,5 @@ Here are some sample natural language texts that you can try for different types
 
 
 ![Image description](https://raw.githubusercontent.com/bhaskatripathi/Text2Diagram/main/app/opengraph-image.png)
+# Note
+Please give a star if you like the project.
