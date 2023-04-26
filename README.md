@@ -16,8 +16,9 @@ Here are some sample natural language texts that you can try for different types
 
 # Some Sample Charts
 **GnaatChart:**
-![GnaatChart](https://github.com/bhaskatripathi/Text2Diagram/blob/main/Example1-GnaatChart.PNG)
 A Gnaat chart example.
+![GnaatChart](https://github.com/bhaskatripathi/Text2Diagram/blob/main/Example1-GnaatChart.PNG)
+
 
 **Sequence Diagram for online food ordering:**
 A sequence diagram for an online food ordering system.
