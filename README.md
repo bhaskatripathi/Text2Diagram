@@ -19,10 +19,6 @@ Here are some sample natural language texts that you can try for different types
 ![GnaatChart](https://github.com/bhaskatripathi/Text2Diagram/blob/main/Example1-GnaatChart.PNG)
 A Gnaat chart example.
 
-**GitGraph:**
-A GitGraph representing a project's git history.
-![GitGraph](https://github.com/bhaskatripathi/Text2Diagram/blob/main/GitGraph.PNG)
-
 **Sequence Diagram for online food ordering:**
 A sequence diagram for an online food ordering system.
 ![Sequence Diagram for online food ordering](https://github.com/bhaskatripathi/Text2Diagram/blob/main/onlinefood%20order.png)
@@ -31,6 +27,10 @@ A sequence diagram for an online food ordering system.
 An Entity-Relationship diagram example.
 ![ER Diagram](https://github.com/bhaskatripathi/Text2Diagram/blob/main/ER%20Diagram.PNG)
 
+
+**GitGraph:**
+A GitGraph representing a project's git history.
+![GitGraph](https://github.com/bhaskatripathi/Text2Diagram/blob/main/GitGraph.PNG)
 
 
 
