@@ -12,9 +12,28 @@ Here are some sample natural language texts that you can try for different types
 - Create a Gitgraph diagram to represent the branching and merging of code changes for a software project
 - Create a mind map to represent the key concepts and ideas for a research paper
 - Create a timeline chart to map out the stages and deadlines for a project plan
-
-
 ![Image description](https://raw.githubusercontent.com/bhaskatripathi/Text2Diagram/main/app/opengraph-image.png)
+
+# Some Sample Charts
+**GnaatChart:**
+![GnaatChart](https://github.com/bhaskatripathi/Text2Diagram/blob/main/Example1-GnaatChart.PNG)
+A Gnaat chart example.
+
+**GitGraph:**
+A GitGraph representing a project's git history.
+![GitGraph](https://github.com/bhaskatripathi/Text2Diagram/blob/main/GitGraph.PNG)
+
+**Sequence Diagram for online food ordering:**
+A sequence diagram for an online food ordering system.
+![Sequence Diagram for online food ordering](https://github.com/bhaskatripathi/Text2Diagram/blob/main/onlinefood%20order.png)
+
+**ER Diagram:**
+An Entity-Relationship diagram example.
+![ER Diagram](https://github.com/bhaskatripathi/Text2Diagram/blob/main/ER%20Diagram.PNG)
+
+
+
+
 # Note
 Please give a star if you like the project.
 ## Star History
