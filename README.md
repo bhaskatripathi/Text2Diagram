@@ -17,3 +17,6 @@ Here are some sample natural language texts that you can try for different types
 ![Image description](https://raw.githubusercontent.com/bhaskatripathi/Text2Diagram/main/app/opengraph-image.png)
 # Note
 Please give a star if you like the project.
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=bhaskatripathi/Text2Diagram&type=Date)](https://star-history.com/#bhaskatripathi/Text2Diagram&Date)
