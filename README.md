@@ -14,6 +14,10 @@ Here are some sample natural language texts that you can try for different types
 - Create a timeline chart to map out the stages and deadlines for a project plan
 ![Image description](https://raw.githubusercontent.com/bhaskatripathi/Text2Diagram/main/app/opengraph-image.png)
 
+# How to generate Enterprise diagrams ?
+Click here: [Prompts](Prompts.md)
+
+
 # Some Sample Charts
 **GnaatChart:**
 A Gnaat chart example.
