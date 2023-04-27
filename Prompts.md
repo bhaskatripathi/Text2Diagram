@@ -1,6 +1,7 @@
 
 # Prompts for Realworld Applications:
-## Sample 1 - Copy-paste the below text in the textbox
+## Sample 1 - Copy-paste the below text in the textbox in the Demo application.
+[Demo Link](https://text2diagram.vercel.app/)
 
 <pre id="code-block-1"><code>
 Draw a sequence diagram for an online food delivery system that takes into account all the nuances and intricacies of the system. The diagram should include the following components and interactions:
