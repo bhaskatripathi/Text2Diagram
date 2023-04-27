@@ -1,8 +1,6 @@
 
 # Prompts for Realworld Applications:
 ## Sample 1 - Copy-paste the below text in the textbox in the Demo application.
-[Demo Link](https://text2diagram.vercel.app/)
-
 <pre id="code-block-1"><code>
 Draw a sequence diagram for an online food delivery system that takes into account all the nuances and intricacies of the system. The diagram should include the following components and interactions:
 1. User interaction with the application (registration, login, browsing, searching, filtering, and selecting a restaurant).
@@ -17,6 +15,7 @@ Draw a sequence diagram for an online food delivery system that takes into accou
 10. Upon delivery completion, allowing the user to rate and review the restaurant and the delivery experience.
 The diagram should be clear, easy to follow, and should visually demonstrate the flow of information and actions between the various components of the system. Additionally, please ensure that the diagram maintains a consistent design and uses appropriate notations for sequence diagrams.
 </code></pre>
+[Copy-Paste here in the Demo Link](https://text2diagram.vercel.app/)
 
 ## Sample 2 - Copy-paste the below text in the textbox
 
@@ -33,3 +32,4 @@ Create a detailed diagram depicting the underlying AWS architecture for an onlin
 9. Additionally, illustrate the interaction between these components and services to represent the request and response flow. Also, include any external services, such as third-party authentication providers or payment gateways, and their interactions with the AWS architecture.
 Please ensure that the diagram is clear, well-organized, and easy to understand, effectively showcasing the relationships between the various components and services within the AWS infrastructure.
 </code></pre>
+[Copy-Paste here in the Demo Link](https://text2diagram.vercel.app/)
