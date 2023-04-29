@@ -12,7 +12,7 @@ Here are some sample natural language texts that you can try for different types
 - Create a Gitgraph diagram to represent the branching and merging of code changes for a software project
 - Create a mind map to represent the key concepts and ideas for a research paper
 - Create a timeline chart to map out the stages and deadlines for a project plan
-![Image description](https://raw.githubusercontent.com/bhaskatripathi/Text2Diagram/main/app/opengraph-image.png)
+![Image description](https://raw.githubusercontent.com/bhaskatripathi/Text2Diagram/main/readme.png)
 
 # How to generate Enterprise diagrams ?
 Click here: [Prompts](Prompts.md)
